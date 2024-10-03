@@ -1,0 +1,146 @@
+/* IMPOSTAZIONI GENERALI */
+#mobile {
+    background-image: url(../img/sfondo.png);
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+
+
+/* HEADER */
+header {
+    text-align: center;
+    padding: 2em;
+    margin: 1.5em;
+    background: linear-gradient(90deg, rgba(43,33,212,1) 0%, rgba(7,90,107,1) 99%);
+   font-family: Poppins;
+    
+}
+img {
+    margin: 1.5em;
+}
+header h1 {
+    margin: 1em;
+    color: white;
+    font-size: medium
+    
+}
+header li  {
+    color: white;
+}
+/* MAIN */
+main {
+    margin: 1em;
+    background-color: white;
+    font-family: Poppins;
+}
+article {
+    padding: 2em;
+    margin: 1.5em;
+}
+ 
+h1 {
+    padding-bottom: 1em;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-right: 1em;
+}
+#mariorossi {
+    color: gray;
+    padding-bottom: 2em;
+    margin-right: 0.8em;
+}
+span {
+    background-color:#cfcfcf ;
+    border: solid 1px;
+    font-size: small;
+    border-radius: 3px;
+}
+strong {
+    color: purple;
+}
+ #unordary {
+    list-style: disc;
+    padding-top: 1em;
+ }
+ #forma {
+    padding-top: 1em;
+ }
+ #ordinary {
+    list-style: decimal;
+    padding-top: 1em;
+    padding-bottom: 1em;
+ }
+ #app {
+    padding-bottom: 1em;
+    margin-right: 5em;
+ }
+ #diffusione {
+    text-align: center;
+    font-weight: bold;
+ }
+
+
+/* TABELLE */
+#table {
+   margin-left: 3em;
+}
+
+/* FORM */
+#test {
+    padding-top: 2em;
+}
+#youtube {
+    border-radius: 30px;
+    width: 20em;
+    height: 10em;
+   
+}
+/* ELEMENTI NELL' ASIDE */
+#novita {
+    text-align: center;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    background-color:#cfcfcf;
+}
+#novi {
+    padding-bottom: 1em;
+}
+#rimanere {
+    font-size: 1em;
+    margin-right: 2em;
+}
+#articoli {
+    text-align: center;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+#primogray {
+    background-color:#cfcfcf;
+    padding-bottom: 2em;
+
+}
+input {
+    border-bottom: dotted;
+}
+#subscribe {
+    color: blue;
+}
+
+/* FOOTER */
+footer {
+    padding: 2em;
+    margin: 1.5em;
+    background: linear-gradient(90deg, rgba(43,33,212,1) 0%, rgba(7,90,107,1) 99%);
+    font-family: Poppins;
+}
+ #email {
+    color: purple;
+ }
+
+ thead {
+    border-top: 2px;
+ }
+
+
